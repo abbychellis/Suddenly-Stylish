@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Stop stressing about dressing. 
 
-You can use the [editor on GitHub](https://github.com/abbychellis/Suddenly-Stylish/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Have you ever woken up and looked at your closet, trying to figure out what to wear and just cannot decide on the perfect outfit? Suddenly Stylish is here to help! Suddenly Stylish is an app that serves as an electronic library of your closet. You can store pictures of your clothes in the app and it will generate outfit combinations for whatever the occasion.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why Should I Use Suddenly Stylish? 
+- Convenient Way to Dress for Success   
+- Quick Outfit Options
+- Latest Fashion Trends 
+- Expert Stylists
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abbychellis/Suddenly-Stylish/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
